@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057029819058",
+    "project_id": "audioclassificationapp",
+    "storage_bucket": "audioclassificationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057029819058:android:6a686fadd7c6a67b0797ab",
+        "android_client_info": {
+          "package_name": "com.example.birds_sound_classification_app_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD96tUDiaooXFe9l3ueJ-U8sNMinkX1Qgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
